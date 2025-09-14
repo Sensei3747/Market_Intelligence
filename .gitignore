@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+dataset/
+
+# Virtual environment
+venv/
+env/
+
+# VSCode and IDE settings
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Pip cache
+pip-wheel-metadata/
+*.egg-info/
