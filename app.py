@@ -1,7 +1,4 @@
-"""
-Marketing Intelligence Dashboard
-Main Streamlit application
-"""
+
 
 import streamlit as st
 import pandas as pd

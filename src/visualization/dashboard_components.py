@@ -1,6 +1,3 @@
-"""
-Dashboard visualization components for Marketing Intelligence Dashboard
-"""
 
 import streamlit as st
 import plotly.graph_objects as go

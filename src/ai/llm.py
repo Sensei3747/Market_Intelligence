@@ -1,7 +1,3 @@
-"""
-LLM Service for Marketing Intelligence Dashboard
-Provides AI-powered insights and recommendations
-"""
 
 import os
 import json

@@ -1,7 +1,4 @@
-"""
-Configuration file for Marketing Intelligence Dashboard
-Handles API keys and environment settings
-"""
+
 
 import os
 from typing import Dict, Optional

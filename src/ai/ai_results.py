@@ -1,7 +1,4 @@
-"""
-AI Insights component for Marketing Intelligence Dashboard
-Handles AI-powered analysis and recommendations
-"""
+
 
 import streamlit as st
 import pandas as pd
