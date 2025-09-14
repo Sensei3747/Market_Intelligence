@@ -6,7 +6,7 @@ Handles AI-powered analysis and recommendations
 import streamlit as st
 import pandas as pd
 from typing import Dict, List, Any
-from .llm_service import get_llm_service
+from .llm import get_llm_service
 
 class AIInsights:
     """AI-powered insights and recommendations component"""

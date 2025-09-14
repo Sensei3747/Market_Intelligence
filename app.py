@@ -12,9 +12,9 @@ from typing import Optional, Tuple, List, Dict, Any
 # Add src to path for imports
 sys.path.append(os.path.join(os.path.dirname(__file__), 'src'))
 
-from data.data_processor import DataProcessor
+from data.processor import DataProcessor
 from visualization.dashboard_components import DashboardComponents
-from ai.ai_insights import AIInsights
+from ai.ai_results import AIInsights
 
 # Configuration constants
 PAGE_CONFIG = {
